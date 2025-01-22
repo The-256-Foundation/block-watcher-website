@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/Block-Watcher-Lander.jpg">
+<img width="500" src="assets/Block-Watcher-Lander.jpg">
 </p>
 
 ## Scope:
