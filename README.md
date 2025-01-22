@@ -5,13 +5,13 @@
 ## Scope:
 One Project Manager position and one engineer position to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
-    • One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-    • One engineer to develop the Block Watcher software.
-    • Block Watcher specifics: Fully open-source visualization tools for a range of on-chain observations.     
-    • User-friendly public-facing dashboard. 
-    • Supporting documentation and specifications. 
-    • This project is fully open-source GPL licensed.
-    • Excluded from this proposal are sales, distribution, marketing, and customer technical support.
+* One project manager to oversee and ensure mission adherence, timeliness, and execution. 
+* One engineer to develop the Block Watcher software.
+* Block Watcher specifics: Fully open-source visualization tools for a range of on-chain observations.     
+* User-friendly public-facing dashboard. 
+* Supporting documentation and specifications. 
+* This project is fully open-source GPL licensed.
+* Excluded from this proposal are sales, distribution, marketing, and customer technical support.
 
 In summary, the Block Watcher project delivers an open-source visualization tool for displaying several on-chain observations, including but not limited to how much hashrate each pool has based on block finds, commonalities/differences between pool templates, potential censorship attempts, mempool transaction counts, fee rates, alternative transaction monitors, orphaned block, forks, various calculators, and more. Users will have the option to use the public-facing user-friendly dashboard or they can choose to self-host this software using their own node for input data. This project will give anyone the ability to watch the blockchain and better inform their mining decisions, hence the name Block Watcher. The open-source nature makes integrating it in a variety of ways possible; giving end-users complete control over all variables of their self-hosted environments. 
 
