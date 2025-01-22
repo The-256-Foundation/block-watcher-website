@@ -1,3 +1,6 @@
+## Motivation
+The majority of Bitcoin mining pools get their templates from the same source and a large minority use the same custodian for their bitcoin and we think miners should be aware of these and other metrics occurring on-chain to better inform their mining decisions. Block Watcher is a project to build a suite of Bitcoin mining visualization tools in a user-friendly public facing dashboard, as well as be available to self-host and run off the user's own node. Well informed people tend to make good decisions and Block Watcher will provide insight into which templates pools are passing out, possible censorship attempts, orphaned blocks, and much more.  
+
 <p align="center">
 <img width="500" src="assets/Block-Watcher-Lander.jpg">
 </p>
