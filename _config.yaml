@@ -2,5 +2,5 @@ remote_theme: the-256-foundation/hacker-theme
 title: Block Watcher
 description: Open Source Bitcoin Mining Analytics
 github:
-  repository_url: https://github.com/The-256-Foundation/Block-Watcher
+  repository_url: https://github.com/The-256-Foundation/Block-Watcher-website
   owner_url: https://256foundation.org
