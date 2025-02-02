@@ -8,10 +8,10 @@ The majority of Bitcoin mining pools get their templates from the same source an
 If this sounds like a project you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
 
 ## Scope:
-One Project Manager position and one engineer position to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
+One Project Manager position and one or multiple developer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
 * One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-* One engineer to develop the Block Watcher software.
+* One or multiple developers to build the Block Watcher software.
 * Block Watcher specifics: Fully open-source visualization tools for a range of on-chain observations.     
 * User-friendly public-facing dashboard. 
 * Supporting documentation and specifications. 
@@ -30,7 +30,7 @@ The timeline for this grant proposal is twelve months with the opportunity to ex
 Materials for this project’s initial release are included in the budget. Potential materials for the project may include but are not limited to various common mining rigs for testing and various other tools or software.
 
 ## Team Members:
-This proposal is for one project manager and one engineer. 
+This proposal is for one project manager and one or multiple developers. 
 
 ## Budget:
 For security reasons, exact dollar amounts are kept confidential. This project budget covers fair-market compensation for one project manager as well as the materials, travel expenses, and living expenses for one engineer for twelve months. Funds are disbursed monthly in equal amounts. Within 30-days prior to the expiration of this grant, a renewal opportunity will open and be subject to review and negotiation.
